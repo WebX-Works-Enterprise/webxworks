@@ -1,37 +1,69 @@
-# **WebX Works**
-Welcome to **WebX Works** — your ultimate destination for cutting-edge digital services! We specialize in empowering individuals and businesses with a comprehensive suite of services designed to cater to all your digital needs.
+# Welcome to your Lovable project
 
-## **About Us**
+## Project info
 
-**WebX Works** is an innovative startup dedicated to delivering high-quality services across web design, development, and more. Our mission is to help you establish a powerful digital presence, whether you're an individual aiming to make an impact online or a business looking to expand its reach.
+**URL**: https://lovable.dev/projects/98ecb408-dec9-48a5-b7d5-ec98355b554e
 
-## **Our Services**
+## How can I edit this code?
 
-### 1. **Web Development** 💻
-   - Developing responsive and robust full-stack web applications that provide seamless user experiences across devices.
+There are several ways of editing your application.
 
-### 2. **Mobile App Development** 📱
-   - Building intuitive and high-performance mobile applications for both iOS and Android platforms.
+**Use Lovable**
 
-### 3. **UX/UI Design** 🖥️
-   - Designing interfaces that are not only aesthetically pleasing but also optimized for enhanced user engagement and satisfaction.
+Simply visit the [Lovable Project](https://lovable.dev/projects/98ecb408-dec9-48a5-b7d5-ec98355b554e) and start prompting.
 
-### 4. **Machine Learning Projects** 🤖
-   - Offering hands-on machine learning and large language model projects to help you gain practical experience in these advanced fields.
+Changes made via Lovable will be committed automatically to this repo.
 
-### 5. **Cybersecurity Services** 🔒
-   - Safeguarding your websites and applications from threats with comprehensive cybersecurity solutions.
+**Use your preferred IDE**
 
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## **Why Choose Us?**
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-- **Expertise:** Our team consists of experienced professionals across all our service areas, ensuring top-notch quality and innovation in every project.
-- **Customization:** We personalize our services to suit your specific needs, making sure the final product aligns perfectly with your vision.
-- **Security:** We prioritize the safety and integrity of your digital assets through our dedicated cybersecurity services.
-- **Innovation:** We stay at the forefront of industry trends to provide you with the latest technologies and best practices.
+Follow these steps:
 
-## **Get In Touch**
-[Go to our website](https://webx-works.vercel.app)
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-Ready to elevate your digital presence? **Contact us** today and let's create something amazing together!
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with .
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/98ecb408-dec9-48a5-b7d5-ec98355b554e) and click on Share -> Publish.
+
+## I want to use a custom domain - is that possible?
+
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
